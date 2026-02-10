@@ -2,9 +2,9 @@
 
 I'm [Raj](https://www.linkedin.com/in/rajdesai18/), a software engineer based in Dallas.
 
-I build things I wish existed.
+I like building things around real problems. 
 
-If an idea pops into my head and it solves a real problem, I'll plan it, build it, and ship it.
+If something bugs me enough, I'll plan it, build it, and ship it.
 
 My main tech stack is Python, TypeScript, React, Next.js, Node.js, and FastAPI.
 
@@ -21,6 +21,6 @@ I've got a bunch of pinned projects below, check them out!
 
 ---
 
-**Currently:** MS CS @ UT Dallas · Graduating May 2026 · Open to full-time SWE roles
+**Currently:** MS CS @ UT Dallas · Graduating May 2026 · Open to full-time SWE, full-stack roles
 
 📫 [LinkedIn](https://www.linkedin.com/in/rajdesai18/) · [Email](mailto:desai.raj1807@gmail.com)
