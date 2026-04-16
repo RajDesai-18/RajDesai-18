@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-I'm [Raj](https://https://rajdesai.io/), a software engineer, finishing my MS in Computer Science at UT Dallas (May 2026).
+I'm [Raj](https://rajdesai.io/), a software engineer, finishing my MS in Computer Science at UT Dallas (May 2026).
 
 If something bugs me enough, I'll plan it, build it, and ship it.
 
